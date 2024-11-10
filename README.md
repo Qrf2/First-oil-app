@@ -18,9 +18,10 @@ Lightweight & Efficient: Designed to be fast and responsive, providing users wit
 
 Here are some ScreenShots from my app
 
-![1st](https://github.com/user-attachments/assets/3ec2dfba-5bf8-40f6-a5ed-54c9f37f4a0e)
-   ![2nd](https://github.com/user-attachments/assets/ca236706-ff6a-44e4-9e41-a2eb0cf7b51a)
-   ![3rd](https://github.com/user-attachments/assets/92ec7550-2073-424d-ae77-a7586c778ca9)
-   ![4th](https://github.com/user-attachments/assets/ab91b34f-8824-4c16-ac4e-cec536b9c109)
-   ![5th](https://github.com/user-attachments/assets/068d97e0-d2de-4087-8d99-1a0bfe6b6292)
-   ![65h](https://github.com/user-attachments/assets/b98cedf2-84ce-4e2b-a0bf-785fe5474411)
+![0](https://github.com/user-attachments/assets/de76cbab-f19b-4c66-89dd-50c67a1f2399)
+   ![1st](https://github.com/user-attachments/assets/d294b7b7-a6a5-4828-bdf7-de4bb171ad2d)
+   ![2nd](https://github.com/user-attachments/assets/2e71919d-347e-49c1-9008-d3b949ebc4e6)
+   ![3rd](https://github.com/user-attachments/assets/24eddce2-98a3-4632-988d-3b159e71688d)
+   ![4th](https://github.com/user-attachments/assets/5f1994ab-088e-4d3f-84a9-c160bc4f98ba)
+   ![5th](https://github.com/user-attachments/assets/c088694f-a52d-4a47-be6c-3390b7ac12f9)
+   ![65h](https://github.com/user-attachments/assets/43759e3f-e5de-4a57-8c39-ca31835463aa)
